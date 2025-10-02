@@ -1,0 +1,16 @@
+{
+  "name": "cadastro-rh-senai",
+  "version": "1.0.0",
+  "description": "réplica do aviso interno do senai",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cadastro",
+    "rh",
+    "senai"
+  ],
+  "author": "Ana Clara Lobo Silveira",
+  "license": "ISC"
+}
